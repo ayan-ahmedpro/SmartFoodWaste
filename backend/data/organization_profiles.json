@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": "8e0ba70d-9036-4428-839b-98ce021880a6",
+        "accepted_food_categories": [],
+        "dietary_requirements": [],
+        "minimum_quantity": 0,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "user_id": "5579e523-50df-47b6-92af-a722364b9081",
+        "accepted_food_categories": [],
+        "dietary_requirements": [],
+        "minimum_quantity": 0,
+        "latitude": null,
+        "longitude": null
+    }
+]

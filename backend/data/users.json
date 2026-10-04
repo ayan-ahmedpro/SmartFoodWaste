@@ -1,0 +1,50 @@
+[
+    {
+        "id": "7ba98e9e-1086-4614-8f5a-923511221322",
+        "name": "Demo Administrator",
+        "email": "admin@example.com",
+        "password_hash": "$2b$12$7fMOnBbR4eSAAf9liqx4Ru.ehDISU/nGZvmEVZ1oH5CbcmtoKjHHS",
+        "role": "admin",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "8e0ba70d-9036-4428-839b-98ce021880a6",
+        "name": "org",
+        "email": "org@example.com",
+        "password_hash": "$2b$12$.C75PAQbr724un2n77bqHuuDdAb0/omlBWo6Nf8PjvAn/QgyWJ/Bm",
+        "role": "organization",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "7a3a5377-fd61-4e01-8af2-797475b49abe",
+        "name": "dnr",
+        "email": "dnr@example.com",
+        "password_hash": "$2b$12$82pDApYIu32Kq5Lwfs65XeRDAYw2LQ2.Mi5S1qJzAKN7Qzs.3stCm",
+        "role": "donor",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "123e6291-bc87-4d2f-9023-9e13522e6921",
+        "name": "org1",
+        "email": "org1@example.com",
+        "password_hash": "$2b$12$3ppmbO/ezME8IXawAehAiemhJd2MCiRY60Aha4/DY0D6VEbxh95o2",
+        "role": "organization",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "5579e523-50df-47b6-92af-a722364b9081",
+        "name": "org2",
+        "email": "org2@example.com",
+        "password_hash": "$2b$12$acDazqhP9UgaUUbBvFKpKO8piTHswwODG0NhWTAbzrTT3blsIWfI6",
+        "role": "organization",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "fe4986c9-32a7-4c7f-ae18-1be1efa5a5e4",
+        "name": "dnr2",
+        "email": "dnr2@example.com",
+        "password_hash": "$2b$12$9o4hzEE/OGpyHgfmPQY4FONnbVmKC70F1Chnm57QIej7GdcbPWbBe",
+        "role": "donor",
+        "status": "ACTIVE"
+    }
+]
